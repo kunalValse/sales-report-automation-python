@@ -1,3 +1,26 @@
+📌 Project Overview
+
+🛠 Technologies Used
+- Python
+- Pandas
+- NumPy
+- Google Colab
+
+📂 Input
+Raw Monthly Sales Report (.xlsx)
+
+⚙ Cleaning Performed
+✔ Skip title rows
+✔ Standardize column names
+✔ Convert date column
+✔ Remove blank invoice values
+✔ Convert negative invoice values to positive
+✔ Export cleaned Excel file
+
+**📤 Output
+Power BI Ready Excel Report**
+
+
 # Monthly Sales Report Automation Pipeline
 
 An automated data engineering script built to standardize, clean, and validate messy corporate sales invoice spreadsheets. 
