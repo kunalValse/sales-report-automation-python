@@ -21,8 +21,22 @@ Raw Monthly Sales Report (.xlsx)
 Power BI Ready Excel Report**
 
 
-# Monthly Sales Report Automation Pipeline
+Raw Excel
+      │
+      ▼
+Google Colab
+      │
+      ▼
+Pandas Cleaning
+      │
+      ▼
+Clean Excel
+      │
+      ▼
+Power BI
 
+
+# Monthly Sales Report Automation Pipeline
 An automated data engineering script built to standardize, clean, and validate messy corporate sales invoice spreadsheets. 
 
 ## The Problem
